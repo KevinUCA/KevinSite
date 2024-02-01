@@ -1,26 +1,26 @@
 {
   "site": {
-    "title": "EV0 ",
-    "base_url": "https://ev0.gndx.io",
+    "title": "Proyectos Kevin ",
+    "base_url": "https://fastidious-empanada-0f78fd.netlify.app/",
     "base_path": "/",
     "favicon": "/favicon.png",
     "logoLight": "/logoLight.png",
     "logoDark": "/logoDark.png",
-    "lang": "en",
-    "description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript.",
-    "pageSize": 6
+    "lang": "es",
+    "description": "Aquí se encuentran todos los trabajos y cambios hechos por practicas que he hecho.",
+    "pageSize": 9
   },
   "features": {
     "youtube": true,
-    "dark_mode": true
+    "dark_mode": false
   },
   "metadata": {
-    "meta_author": "Oscar Barajas @gndx",
-    "meta_description": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
+    "meta_author": "@KevsPatiño",
+    "meta_description": "Este sitio lleva todos los contenidos, practicas, correcciones detallado en las tareas y trabajos"
   },
   "author": {
-    "name": "Oscar Barajas Tavares @gndx",
-    "avatar": "https://s3.amazonaws.com/gndx.dev/gndx-astro-avatar.png",
-    "bio": "EV0 is a free and open-source serverless blog template, built with Astro, Tailwind CSS, and TypeScript."
+    "name": "Kevin Patiño Ojeda",
+    "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Eiffelturm.JPG/275px-Eiffelturm.JPG",
+    "bio": "Kevin Patiño Ojeda nació el día 8 de Octubre del 2002 nacido en Toulouse, Francia, pero lamentablemeto nació con espectro autismo, pero él es especial. Él es franco-mexicano."
   }
 }
