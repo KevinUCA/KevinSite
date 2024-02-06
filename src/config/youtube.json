@@ -8,8 +8,8 @@
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/neZYcnduRTo/mqdefault.jpg",
-        "width": 120,
-        "height": 90
+        "width": 320,
+        "height": 12
       },
       "medium": {
         "url": "https://i.ytimg.com/vi/neZYcnduRTo/mqdefault.jpg",
