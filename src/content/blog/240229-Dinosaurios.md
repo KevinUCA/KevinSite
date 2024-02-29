@@ -1,6 +1,6 @@
 title: 'All about T-Rex'
 description: 'En el Periodo Cretácico hace 65 millones de años, los dinosaurios dominaban la Tierra mucho antes de la Era de Hielo. Existían dinosaurios de diferentes tamaños.'
-pubDate: '2021-09-19T01:20:12.616Z'
+pubDate: '2024-02-29T01:20:12.616Z'
 heroImage: '/1709223909855.png'
 categories: ['Presentación']
 tags: ['Dinosaurios']
