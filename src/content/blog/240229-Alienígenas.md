@@ -1,0 +1,13 @@
+---
+title: 'Alienígenas'
+description: 'En la cultura popular, en la ufología y en la xenobiología, se denomina extraterrestre a todo ser vivo originario de cualquier sitio ajeno a la Tierra.​ La mayor parte de las personas solo tiene en cuenta esta definición al referirse a los seres provenientes del espacio exterior. Por lo general, la vida extraterrestre inteligente se asocia al fenómeno de los objetos voladores no identificados, comúnmente llamado platillos voladores.'
+pubDate: '2024-02-29T01:20:12.616Z'
+heroImage: '/alienígenas.avif'
+categories: ['Presentación']
+tags: ['Alienígenas']
+author: '["Kevin Patiño"]'
+---
+
+Los enfoques de la ufología acientífica son tan variados, como las opiniones de los que proponen las teorías. Sobra decir que dichos enfoques no gozan de ninguna aceptación científica, y solamente la astrobiología y la ufología procientífica se acercan a la noción de ciencia, sin llegar a ser aceptadas por completo en forma generalizada.
+
+En el contexto de la astrobiología, existen esfuerzos de investigación para intentar demostrar la presencia de vida en el cosmos, por ejemplo el llamado proyecto SETI, dedicado a rastrear el espacio con radiotelescopios, a la espera de captar alguna señal no natural o mensaje proveniente de seres inteligentes.
