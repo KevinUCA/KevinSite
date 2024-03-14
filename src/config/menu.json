@@ -1,20 +1,20 @@
 {
   "main": [
     {
-      "name": "Home",
-      "url": "/"
+      "name": "Hogar",
+      "url": "/HOGAR"
     },
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Acerca de",
+      "url": "/acerca de"
     },
     {
-      "name": "Tags",
-      "url": "/tags"
+      "name": "Objetivos",
+      "url": "/objetivos"
     },
     {
-      "name": "Categories",
-      "url": "/categories"
+      "name": "Categorias",
+      "url": "/categorias"
     }
   ]
 }
