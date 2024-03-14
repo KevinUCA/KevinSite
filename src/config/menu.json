@@ -2,19 +2,19 @@
   "main": [
     {
       "name": "Hogar",
-      "url": "/HOGAR"
+      "url": "/"
     },
     {
       "name": "Acerca de",
-      "url": "/acerca de"
+      "url": "/about"
     },
     {
       "name": "Objetivos",
-      "url": "/objetivos"
+      "url": "/tags"
     },
     {
       "name": "Categorias",
-      "url": "/categorias"
+      "url": "/categories"
     }
   ]
 }
