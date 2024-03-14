@@ -12,7 +12,7 @@
   },
   "features": {
     "youtube": true,
-    "dark_mode": false
+    "dark_mode": true
   },
   "metadata": {
     "meta_author": "@KevsPatiño",
