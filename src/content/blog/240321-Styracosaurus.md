@@ -4,8 +4,8 @@ description: 'El Styracosaurus es un dinosaurio parecido a un rinoceronte, pero 
 puede vencer a sus enemigos con facilidad'
 pubDate: '2024-03-21T01:20:12.616Z'
 heroImage: '/Styracosaurus.webp'
-categories: ['Presentación']
-tags: ['Dinosaurio']
+categories: ['Dinosaurios']
+tags: ['Styracosaurus']
 author: '["Kevin Patiño"]'
 ---
 
