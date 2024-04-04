@@ -3,7 +3,7 @@ title: 'Chevrolet Camaro'
 description: ' El Chevrolet Camaro es un automóvil deportivo de dos puertas, con motor delantero montado longitudinalmente y de tracción trasera, producido por el fabricante estadounidense Chevrolet, división de General Motors (GM) desde 1966.1​ Compartía su plataforma y la mayoría de sus componentes con el Pontiac Firebird, también introducido en 1967.'
 pubDate: '2024-02-29T01:20:12.616Z'
 heroImage: '/Chevrolet Camaro.jpg'
-categories: ['Presentación']
+categories: ['Vehiculos']
 tags: ['Camaro']
 author: '["Kevin Patiño"]'
 ---

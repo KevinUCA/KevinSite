@@ -4,8 +4,8 @@ description: 'Un leopardo de las nieves es un felino de tamaño pequeño-mediano
 montañosas en Asia '
 pubDate: '2024-03-21T01:20:12.616Z'
 heroImage: '/leopardo de las nieves.jpg'
-categories: ['Presentación']
-tags: ['Felino']
+categories: ['Felinos']
+tags: ['leopardo de las nieves']
 author: '["Kevin Patiño"]'
 ---
 

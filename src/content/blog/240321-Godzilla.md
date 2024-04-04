@@ -3,8 +3,8 @@ title: 'Godzilla'
 description: 'Godzilla es un kaiju enorme que se hizo popular en Japón y apareció en películas. '
 pubDate: '2024-03-21T01:20:12.616Z'
 heroImage: '/Godzilla.jpg'
-categories: ['Presentación']
-tags: ['Kaiju']
+categories: ['Kaijus']
+tags: ['Godzilla']
 author: '["Kevin Patiño"]'
 ---
 

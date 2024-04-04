@@ -3,8 +3,8 @@ title: 'Estatua de la Libertad'
 description: 'La Estatua de la Libertad es una de las esculturas más famosas del mundo, que fue originado en Francia y se lo regalaron a Nueva York en 1886 '
 pubDate: '2024-03-02T01:20:12.616Z'
 heroImage: '/Estatua de la Libertad.jpg'
-categories: ['Presentación']
-tags: ['Estatua']
+categories: ['Lugares de turismo']
+tags: ['Estatua de la Libertad']
 author: '["Kevin Patiño"]'
 ---
 

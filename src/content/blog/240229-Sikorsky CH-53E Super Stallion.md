@@ -3,8 +3,8 @@ title: 'Helicoptero Sikorsky CH-53E Super Stallion'
 description: 'El Sikorsky CH-53E Super Stallion, designado S-80E por el fabricante, es un helicóptero de transporte pesado creado por la compañía estadounidense Sikorsky Aircraft Corporation para el Cuerpo de Marines de los Estados Unidos. '
 pubDate: '2024-02-29T01:20:12.616Z'
 heroImage: '/Sikorsky CH-53E Super Stallion.jpg'
-categories: ['Presentación']
-tags: ['Helicoptero de carga']
+categories: ['Vehiculos']
+tags: ['Helicoptero de carga Sikorsky']
 author: '["Kevin Patiño"]'
 ---
 

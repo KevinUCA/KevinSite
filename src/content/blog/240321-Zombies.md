@@ -4,8 +4,8 @@ description: 'Los zombies son muertos que cobran vida que aparecen en películas
 cerebros '
 pubDate: '2024-03-21T01:20:12.616Z'
 heroImage: '/zombies.jpg'
-categories: ['Presentación']
-tags: ['Muerto']
+categories: ['Muertos']
+tags: ['Zombies']
 author: '["Kevin Patiño"]'
 ---
 

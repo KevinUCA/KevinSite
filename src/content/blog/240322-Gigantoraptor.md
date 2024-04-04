@@ -4,8 +4,8 @@ description: 'El Gigantoraptor es una especie de dinosaurio con plumaje parecido
 mide 4.5 metros de alto'
 pubDate: '2024-03-21T01:20:12.616Z'
 heroImage: '/Gigantoraptor.webp'
-categories: ['Presentación']
-tags: ['Dinosaurio']
+categories: ['Dinosaurios']
+tags: ['Gigantoraptor']
 author: '["Kevin Patiño"]'
 ---
 

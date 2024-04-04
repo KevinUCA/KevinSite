@@ -3,7 +3,7 @@ title: 'Alienígenas'
 description: 'En la cultura popular, en la ufología y en la xenobiología, se denomina extraterrestre a todo ser vivo originario de cualquier sitio ajeno a la Tierra.​ La mayor parte de las personas solo tiene en cuenta esta definición al referirse a los seres provenientes del espacio exterior. Por lo general, la vida extraterrestre inteligente se asocia al fenómeno de los objetos voladores no identificados, comúnmente llamado platillos voladores.'
 pubDate: '2024-02-29T01:20:12.616Z'
 heroImage: '/alienígenas.avif'
-categories: ['Presentación']
+categories: ['Seres vivos fuera de la Tierra']
 tags: ['Alienígenas']
 author: '["Kevin Patiño"]'
 ---

@@ -4,8 +4,8 @@ description: 'Los pavo reales son una especie de ave y son las más hermosas de 
 machos, mientras que las hembras parecen codornices. '
 pubDate: '2024-03-21T01:20:12.616Z'
 heroImage: '/pavo real.jpg'
-categories: ['Presentación']
-tags: ['Ave']
+categories: ['Ave']
+tags: ['Pavo real']
 author: '["Kevin Patiño"]'
 ---
 

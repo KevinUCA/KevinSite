@@ -4,8 +4,8 @@ description: 'El Dreadnoughtus es una especie dinosaurio sauropodo y se conoce c
 Argentinosaurus'
 pubDate: '2024-03-21T01:20:12.616Z'
 heroImage: '/Dreadnoughtus.webp'
-categories: ['Presentación']
-tags: ['Dinosaurio']
+categories: ['Dinosaurios']
+tags: ['Dreadnoughtus']
 author: '["Kevin Patiño"]'
 ---
 

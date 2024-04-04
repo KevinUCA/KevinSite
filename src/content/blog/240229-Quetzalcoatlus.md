@@ -2,9 +2,9 @@
 title: 'Quetzalcoatlus'
 description: 'Quetzalcoatlus, llamado así por la deidad azteca Quetzalcóatl, la serpiente emplumada, es un género extinto de pterosaurios pterodactiloideos del Cretácico superior en Norteamérica (Maastrichtiense, hace cerca de 68-66 millones de años), y uno de los mayores animales voladores conocidos de todos los tiempos. Era un miembro de los azdárquidos, una familia de avanzados pterosaurios sin dientes con cuellos rígidos e inusualmente largos.'
 pubDate: '2024-02-29T01:20:12.616Z'
-heroImage: '/1709223857198.png'
-categories: ['Presentación']
-tags: ['Azdarquido']
+heroImage: '/Quetzalcoatlus.webp'
+categories: ['Dinosaurios']
+tags: ['Quetzalcoatlus']
 author: '["Kevin Patiño"]'
 ---
 
