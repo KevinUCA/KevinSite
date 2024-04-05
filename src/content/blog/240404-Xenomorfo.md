@@ -1,6 +1,6 @@
 ---
 title: 'Xenomorfo'
-description: 'Los Xenomorfos son alienígenas ficticias que aparecieron en las películas de ciencia ficción y terror 'Alien' '
+description: 'Los Xenomorfos son alienígenas ficticias que aparecieron en las películas de ciencia ficción y terror Alien '
 pubDate: '2024-04-04T01:20:12.616Z'
 heroImage: '/Xenomorfo.webp'
 categories: ['Alienígenas']
