@@ -3,7 +3,7 @@ title: 'Cristo Redentor'
 description: 'Es una de las estatuas enormes ubicada en Rio de Janeiro.'
 pubDate: '2024-04-05T01:20:12.616Z'
 heroImage: '/Cristo Redentor.webp'
-categories: ['Lugares turisticos']
+categories: ['Lugares de turismo']
 tags: ['Cristo Redentor']
 author: '["Kevin Patiño"]'
 ---
