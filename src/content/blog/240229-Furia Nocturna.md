@@ -1,8 +1,8 @@
 ---
-title: 'Dragones'
-description: 'El dragón (del latín draco, y este del griego δράκων, drákon ‘serpiente’) es un ser mitológico que aparece de diversas formas en varias culturas de todo el mundo, con diferentes simbolismos asociados.'
+title: 'Furia Nocturna'
+description: 'Los Furias Nocturnas son especies de dragones de color negro que existen tanto machos como hembras, y su tamaño es un poco más grande que un león.'
 pubDate: '2024-02-29T01:20:12.616Z'
-heroImage: '/Dragón.webp'
+heroImage: '/Chimuelo.webp'
 categories: ['Dragones']
 tags: ['Furia Nocturna']
 author: '["Kevin Patiño"]'
